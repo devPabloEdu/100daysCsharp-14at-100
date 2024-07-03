@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "100daysCsharp-14até100/1.0.0": {
+        "runtime": {
+          "100daysCsharp-14até100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "100daysCsharp-14até100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
