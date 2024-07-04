@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\100daysCsharp-14até100.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\day14\\100daysCsharp-14até100.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\100daysCsharp-14até100.csproj": {
+    "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\day14\\100daysCsharp-14até100.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\100daysCsharp-14até100.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\day14\\100daysCsharp-14até100.csproj",
         "projectName": "100daysCsharp-14até100",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\100daysCsharp-14até100.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\day14\\100daysCsharp-14até100.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\100daysCsharp-14até100\\day14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
