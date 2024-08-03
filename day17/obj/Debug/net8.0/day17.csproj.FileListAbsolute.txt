@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.AssemblyInfo.cs
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.sourcelink.json
