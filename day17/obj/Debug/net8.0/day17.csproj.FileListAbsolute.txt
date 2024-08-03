@@ -3,3 +3,13 @@ C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.Asse
 C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.AssemblyInfo.cs
 C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.sourcelink.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\bin\Debug\net8.0\day17.exe
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\bin\Debug\net8.0\day17.deps.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\bin\Debug\net8.0\day17.runtimeconfig.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\bin\Debug\net8.0\day17.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\bin\Debug\net8.0\day17.pdb
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\refint\day17.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.pdb
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\day17.genruntimeconfig.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day17\obj\Debug\net8.0\ref\day17.dll
