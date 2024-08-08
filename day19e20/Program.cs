@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+class MergeSortExample
+{
+    static void Main(string[] args)
+    {
+        int[] array = []
+    }
+
+    static void MergeSort(int[] array)
+    {
+        
+    }
+}
+
+
