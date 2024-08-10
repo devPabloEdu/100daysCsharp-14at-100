@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ArvoreBinaria
 {
@@ -27,6 +28,36 @@ namespace ArvoreBinaria
             return left == null && right == null;
         }
     }
+        public void Insert(int value)
+        {
+            if(Root == null)
+            {
+                Root = new Node(value);
+            } else {
+                Node newNode = new Node(value);
+                Queue<Node> queue = new Queue<Node>();
+                queue.Enqueue(Root);
+
+                while (queue.Count > 0)
+                {
+                    Node currentNode = queue.Dequeue();
+                    if (currentNode.Left == null)
+                    {
+                        currentNode.Left = newNode;
+                        break;
+                    } else {
+                        queue.Enqueue(currentNode.Left);
+                    }
+                    if (currentNode.Right == null) {
+                        currentNode.Right = newNode;
+                        break;
+                    } else {
+                        queue.Dequeue(currentNode.Right);
+                    }
+                }
+            }
+        }
+
 
     }
 
