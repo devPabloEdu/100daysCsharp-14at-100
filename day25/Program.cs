@@ -5,6 +5,7 @@ namespace day25
    {
     static void Main(string[] args)
     {
+        Console.Clear();
         PagamentoCartao pagamentoCartao = new PagamentoCartao();
         pagamentoCartao.Vencimento = DateTime.Now;
         pagamentoCartao.NumeroDoCartão = "12345678910";
