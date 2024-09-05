@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\bin\Debug\net8.0\day34.exe
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\bin\Debug\net8.0\day34.deps.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\bin\Debug\net8.0\day34.runtimeconfig.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\bin\Debug\net8.0\day34.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\bin\Debug\net8.0\day34.pdb
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.AssemblyInfo.cs
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.sourcelink.json
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\refint\day34.dll
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.pdb
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\day34.genruntimeconfig.cache
+C:\Users\Admin\Desktop\100daysCsharp-14até100\day34\obj\Debug\net8.0\ref\day34.dll
